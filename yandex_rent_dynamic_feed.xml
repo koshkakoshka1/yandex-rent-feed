@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>Аренда квартир в Москве от собственников — Яндекс Недвижимость</title>
+  <link>https://realty.yandex.ru/moskva/snyat/?owner=only</link>
+  <description>Автообновляемый фид: только аренда, только от собственников, только Москва</description>
+
+  
+  <item>
+    <title>2-к квартира, 55 м² — 60 000 ₽</title>
+    <link>https://realty.yandex.ru/offer/fake-id-2</link>
+    <description>Москва, м. Бауманская — срочно, без комиссии</description>
+    <pubDate>Fri, 10 May 2025 08:00:00 +0300</pubDate>
+  </item>
+  <item>
+    <title>1-к квартира, 36 м² — 47 000 ₽</title>
+    <link>https://realty.yandex.ru/offer/fake-id-3</link>
+    <description>Москва, м. Текстильщики — без агентов, от собственника</description>
+    <pubDate>Fri, 10 May 2025 07:00:00 +0300</pubDate>
+  </item>
+
+
+</channel>
+</rss>
