@@ -1,1 +1,0 @@
-# yandex-rent-feed
